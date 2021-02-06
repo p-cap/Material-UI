@@ -1,0 +1,19 @@
+{
+  "ip": {
+    "number": "70.91.145.10",
+    "count": null,
+    "attacks": null,
+    "maxdate": null,
+    "mindate": null,
+    "updated": null,
+    "comment": null,
+    "maxrisk": null,
+    "asabusecontact": "abuse@comcast.net",
+    "as": 7922,
+    "asname": "COMCAST-7922",
+    "ascountry": "US",
+    "assize": 71407104,
+    "network": "70.88.0.0/14"
+  }
+}
+
